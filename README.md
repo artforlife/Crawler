@@ -3,7 +3,7 @@ Basic Web Crawler Python 3
 
 Adapted from: https://www.debrice.com/building-a-simple-crawler/
 
-*Usage:* 
+**Usage:** 
 
 `crawler = Crawler(depth=2) ` 
 
